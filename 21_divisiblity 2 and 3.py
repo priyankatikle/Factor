@@ -8,3 +8,5 @@ if(num%2==0):
             print("Number is divisible by 2 and 3 both")
 else:
     print("Number is neither divisible by 2 nor by 3")
+    print("welcome to pythan")
+    print
