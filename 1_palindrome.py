@@ -11,3 +11,5 @@ if(t==r):
     print("palindrome")
 else:
     print("Not palindrome")
+print("completed program")
+
