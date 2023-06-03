@@ -8,3 +8,5 @@ elif(city=="Jaipur"):
     print("Monument of",city,"is Jal Mahal")
 else:
     print("Wrong Input")
+
+    
